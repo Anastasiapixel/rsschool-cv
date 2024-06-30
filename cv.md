@@ -1,5 +1,5 @@
 # Volkova Anastasiia
-![Photo](https://photos.fife.usercontent.google.com/pw/AP1GczPgqlyXc5GnEvgZELv-uA_cje8kvbpDyzgClim9AHFyAacsWTFgnrg0=w916-h1625-s-no-gm?authuser=0 "Photo")
+![Photo](rsschool-cv/IMG_20210424_132334.jpg "Photo")
 
 
 ## Contacts:
