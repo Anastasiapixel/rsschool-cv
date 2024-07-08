@@ -28,6 +28,7 @@ a:visited {
  width: 80%;
  margin: auto;
  display: flex;
+ align-items: center;
 }
 .blockcv{
  display: inline-block;
@@ -36,7 +37,7 @@ a:visited {
  width: 13%;
  height: 13%;
  float: left;
- margin-left: 30px; 
+ margin-left: 170px; 
 
 }
 .footer__nav {
